@@ -12,7 +12,7 @@
 <!-- -📄 Know about my experiences <a href="">Resume</a><br/>/ -->
 </p>
 <br/>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Languages and Tools 
 
@@ -34,14 +34,15 @@
 </p>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AashishKumarYadav&theme=algolia" alt="AashishKumarYadav"/></p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<!--## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/AashishKumarYadav/AashishKumarYadav/output/github-contribution-grid-snake.svg)-->
+<!--
+## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/AashishKumarYadav/AashishKumarYadav/output/github-contribution-grid-snake.svg) -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
