@@ -4,10 +4,10 @@
 <h3 font-weight: "bold">A Passionate Software developer from India</h3>
 <p align="left">
 	<br/>
-- 🔭 Working on Android Development<br/>
-- 🌱 Expertise in C++<br/>
+- 🔭 Working on Full-stack Development & Android Development<br/>
+- 🌱 Expertise in C++, Python, and JavaScript<br/>
 - 🤝 Available for freelancing<br/>
-- 💬 Ask me about **Android Development, C++ & DSA**<br/>
+- 💬 Ask me about **Full-stack Development, Android Development, C++, & DSA**<br/>
 - 📫 How to reach me **aashishy292@gmail.com** <br/>
 <!-- -📄 Know about my experiences <a href="">Resume</a><br/>/ -->
 </p>
@@ -43,6 +43,5 @@
 
 <!--
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/AashishKumarYadav/AashishKumarYadav/output/github-contribution-grid-snake.svg) -->
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![snake gif](https://raw.githubusercontent.com/AashishKumarYadav/AashishKumarYadav/output/github-contribution-grid-snake.svg)<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> </a>-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
