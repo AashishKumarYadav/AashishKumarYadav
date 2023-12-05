@@ -7,7 +7,7 @@
 - 🔭 Working on Full-stack Development & Android Development<br/>
 - 🌱 Expertise in C++, Python, and JavaScript<br/>
 - 🤝 Available for freelancing<br/>
-- 💬 Ask me about **Full-stack Development, Android Development, C++, & DSA**<br/>
+- 💬 Ask me about **Full-stack Development, C++, & DSA**<br/>
 - 📫 How to reach me **aashishy292@gmail.com** <br/>
 <!-- -📄 Know about my experiences <a href="">Resume</a><br/>/ -->
 </p>
