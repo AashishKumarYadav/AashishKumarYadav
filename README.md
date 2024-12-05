@@ -5,7 +5,7 @@
 <p align="left">
 	<br/>
 - 🔭 Working on Full-stack Development & Android Development<br/>
-- 🌱 Expertise in C++, Python, and JavaScript<br/>
+- 🌱 Expertise in C++, Java, Python, and JavaScript<br/>
 - 🤝 Available for freelancing<br/>
 - 💬 Ask me about **Full-stack Development, C++, & DSA**<br/>
 - 📫 How to reach me **aashishy292@gmail.com** <br/>
